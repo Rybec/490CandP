@@ -1,0 +1,99 @@
+Concurrency and Parallelism
+
+Weeks 1-6
+	Threading
+Weeks 7-9
+	Multiprocessing
+Weeks 10-12
+	Distributed Computing
+
+
+Week 1
+	Tuesday
+		What is concurrency?
+		What is parallelism?
+			Haskell example?
+		Python Threading Demo
+	Thursday
+		Work Time: Simple Threaded Python Program
+		https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M
+	
+Week 2
+	Tuesday
+		Due: Simple Threaded Python Program
+		Race (in Python)
+		Avoiding races by avoiding inter-thread communication
+		Avoiding races with locks
+	Thursday:
+		PThreads (find it yourself)
+		Work Time: C++11 Threads
+
+Week 3
+	Tuesday:
+		Due: Discussion on lock types
+		Mutex
+		Semaphore
+		Reader/Writer
+	Thursday:
+		Due: C++11 Threads
+		OpenMP
+		Work Time: Pthreads
+
+Week 4
+	Tuesday:
+		Due: Presentations
+		Deadlock
+		Livelock
+	Thursday:
+		Due: Pthreads
+		Work Time: OpenMP
+
+Week 5
+	Tuesday:
+		Due: Discussion on Threading Patterns
+		Worker Queue
+		Producer/Consumer
+	Thursday:
+		Work Time: OpenMP
+Week 6
+	Tuesday:
+		Where Threading Should be Used
+		I/O vs CPU
+		Promises
+		Division of Labor
+	Thursday:
+		Due: OpenMP
+
+
+Week 7
+	Interprocess communication
+	Due: Discussion on forms of IPC
+Week 8
+	Demo: Pipes
+	Work Time: IPC in C
+Week 9
+	Due: Implement some form of IPC in C (not pipes)
+
+
+Week 10
+	Distributed Computing
+Week 11
+Week 12
+	Due: Create Multi-Client/Server Program
+
+Week 13
+	Work Time: Final Project
+Week 14
+	Due: Final Project
+
+
+
+
+Shared Memory Model
+	Multiple processes (not threads)
+	Global shared memory (perhaps using mmap...)
+	Locks to prevent races
+
+Threads Model
+	https://computing.llnl.gov/tutorials/pthreads/
+	https://computing.llnl.gov/tutorials/openMP/

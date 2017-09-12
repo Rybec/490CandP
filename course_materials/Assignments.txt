@@ -1,0 +1,39 @@
+Simple Threaded Python Program		5%		1%
+Discussion on lock types			2%		1%
+C++11 Threads				5%		1%
+Presentations					4%	1%	2%
+Pthreads				5%		1%
+Discussion on Threading Patterns		2%		1%
+OpenMP					5%		1%
+
+Discussion on forms of IPC			2%		1%
+Implement a Form of IPC			5%		1%
+
+Create Multi-Client/Server program	5%		1%
+OpenMPI?				5%		1%
+
+Final Project				40%		3%
+
+Application				75%
+Knowledge					10%
+Collaboration						10%
+Participation							5%
+
+Total					100%
+
+
+Simple Threaded Python Program
+	Choose a task that needs done a certain number of times
+	Create a counter variable
+	Create threads to do the task, using the counter to stop when it has been done enough times
+	Experiment
+
+C++11 Threads
+	Use some kind of mutual Exclusion
+
+Pthreads
+	Deliberately Create Deadlock or Livelock
+	Figure Out How to Fix it
+
+OpenMP
+	Parallelize a Trivially Parallelizable Task
