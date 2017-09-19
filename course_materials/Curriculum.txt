@@ -37,6 +37,7 @@ Week 3
 	Thursday:
 		Due: C++11 Threads
 		OpenMP
+		https://en.wikipedia.org/wiki/OpenMP
 		Work Time: Pthreads
 
 Week 4
@@ -63,6 +64,7 @@ Week 6
 		Division of Labor
 	Thursday:
 		Due: OpenMP
+		http://beej.us/guide/bgipc/output/print/bgipc_USLetter.pdf
 
 
 Week 7
