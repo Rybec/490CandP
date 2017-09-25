@@ -6,6 +6,7 @@
 
 ### Tuesday
 **DUE:** Discussion on Lock Types
+
 Please become familiar with at least a few of these ideas before class
 - Context Switches
 - Preemption
