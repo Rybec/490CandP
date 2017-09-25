@@ -21,19 +21,20 @@ Week 1
 Week 2
 	Tuesday
 		Due: Simple Threaded Python Program
-		Race (in Python)
-		Avoiding races by avoiding inter-thread communication
-		Avoiding races with locks
+		Race
+		Mutex
+		Semaphore
+		Spinlocks
 	Thursday:
-		PThreads (find it yourself)
 		Work Time: C++11 Threads
 
 Week 3
 	Tuesday:
 		Due: Discussion on lock types
-		Mutex
-		Semaphore
-		Reader/Writer
+		Avoiding races by avoiding inter-thread communication
+		Avoiding races with locks
+		Introduce Presentations on Locking Problems
+		PThreads (find it yourself)
 	Thursday:
 		Due: C++11 Threads
 		OpenMP
@@ -42,9 +43,7 @@ Week 3
 
 Week 4
 	Tuesday:
-		Due: Presentations
-		Deadlock
-		Livelock
+		Due: Locking Problem Presentations
 	Thursday:
 		Due: Pthreads
 		Work Time: OpenMP

@@ -28,8 +28,30 @@ Simple Threaded Python Program
 	Create threads to do the task, using the counter to stop when it has been done enough times
 	Experiment
 
+Discussion on Lock Types
+	Context Swtiches
+	Preemption
+	Mutex
+	Semaphore
+	Recursive Mutex
+	Reader/Writer Lock
+	Obstruction Freedom
+	Lock Freedom
+	Wait Freedom
+
 C++11 Threads
 	Use some kind of mutual Exclusion
+
+Presentations
+	Deadlock
+	Livelock
+	Priority Inversion
+	Dining Philosphers Problem
+	Sleeping Barber Problem
+	Producer-Consumer Problem
+	Cigarette Smokers Problem
+	Readers-Writers Problem
+	ABA Problem
 
 Pthreads
 	Deliberately Create Deadlock or Livelock
