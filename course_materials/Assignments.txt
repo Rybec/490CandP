@@ -29,7 +29,7 @@ Simple Threaded Python Program
 	Experiment
 
 Discussion on Lock Types
-	Context Swtiches
+	Context Switches
 	Preemption
 	Mutex
 	Semaphore
@@ -46,6 +46,7 @@ Presentations
 	Deadlock
 	Livelock
 	Priority Inversion
+	Resource Starvation
 	Dining Philosphers Problem
 	Sleeping Barber Problem
 	Producer-Consumer Problem
