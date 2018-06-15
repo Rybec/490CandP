@@ -63,7 +63,7 @@ Week 6
 		Division of Labor
 	Thursday:
 		Due: OpenMP
-		http://beej.us/guide/bgipc/output/print/bgipc_USLetter.pdf
+		http://beej.us/guide/bgipc/pdf/bgipc_USLetter.pdf
 
 
 Week 7
